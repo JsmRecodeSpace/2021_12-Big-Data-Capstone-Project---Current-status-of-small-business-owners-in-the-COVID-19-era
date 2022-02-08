@@ -30,6 +30,9 @@
 <br>
 
 ## 6. 성과
+프로젝트 이후 우리은행과 인터뷰 후 사진
+![image](https://user-images.githubusercontent.com/55688416/152968166-6046e3fe-fea0-46f7-8b79-9d40e2c8694a.png)
+![image](https://user-images.githubusercontent.com/55688416/152968249-f90a6419-1ebe-439b-a40f-7e53af67845f.png)
 
 
 
