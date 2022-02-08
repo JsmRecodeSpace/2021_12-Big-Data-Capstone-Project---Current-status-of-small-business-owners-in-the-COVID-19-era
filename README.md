@@ -2,7 +2,8 @@
  
 ## < 2021_12 빅데이터 캡스톤 프로젝트 - 코로나19 시대의 소상공인의 현황 >
 
- 
+![image](https://user-images.githubusercontent.com/55688416/152969233-c33b77ee-453d-4ff7-8af3-3b03972540c5.png)
+
 
 ## 1.배경  
 
@@ -30,10 +31,6 @@
 <br>
 
 ## 6. 성과
-프로젝트 이후 우리은행과 인터뷰 후 사진, 본인은 맨 오른쪽  
-(첫번째에 교수님은 국민대학교 빅데이터경영통계 교수 '정여진' 교수님)
-![image](https://user-images.githubusercontent.com/55688416/152968166-6046e3fe-fea0-46f7-8b79-9d40e2c8694a.png)
-![image](https://user-images.githubusercontent.com/55688416/152968249-f90a6419-1ebe-439b-a40f-7e53af67845f.png)
 
 
 
