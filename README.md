@@ -68,6 +68,3 @@
    - 1부 소상공인 키워드 트렌트 분석 발표
 <br>
 
- - 우리은행측과의 인터뷰 진행: http://wooriwebzine.com/page/vol301/sub/view.php?idx=147
-<br>
-
